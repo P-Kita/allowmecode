@@ -1,0 +1,646 @@
+.button-container 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.button1
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #b3c1c8;
+    color: rgb(119,118,118);
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  
+}
+.button2
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    color: rgb(119,118,118);
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.button3
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(119,118,118);
+    text-emphasis-color: white;  
+}
+.button4
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #b3c1c8;
+    color: rgb(119,118,118);
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+     
+}
+.button5
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #b3c1c8;
+    color: rgb(119,118,118);
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.button6
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #b3c1c8;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    background-color: dimgray; 
+}
+.button7
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color:white;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #b3c1c8;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+      
+}
+.button8
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.button9
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(42, 42, 105);
+    
+}
+.button10
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+.button11
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button12
+{
+        display: block;
+        margin: 15px 10px;
+        padding: 5px;
+        border-width: 1px;
+        border-radius: 12px;
+        width: 6rem;
+        display: flex;
+        background-color: #fff;
+        border-width: 0;
+        box-shadow: 0px 1px 0px #065e89;
+        color: white;
+        font-size: medium;
+        font-weight: 500;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color: rgb(42, 42, 105);
+        
+    
+}
+.button13
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: rgb(119,118,118);
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button13
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button14
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button15
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: rgb(42, 42, 105);
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button16
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button17
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button18
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color:rgb(42, 42, 105);;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button19
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button20
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button21
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color:rgb(42, 42, 105);;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button22
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button23
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button24
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: rgb(42, 42, 105);;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button25
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button26
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0.5;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button27
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: rgb(42, 42, 105);;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button28
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button29
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button30
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: rgb(42, 42, 105);;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button31
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button32
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button33
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: rgb(42, 42, 105);;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button34
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button35
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: #fff;
+    border-width: 1;
+    box-shadow: 0px 1px 0px #065e89;
+    color: blue;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button36
+{
+    display: block;
+    margin: 15px 10px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 12px;
+    width: 6rem;
+    display: flex;
+    background-color: rgb(42, 42, 105);;
+    border-width: 0;
+    box-shadow: 0px 1px 0px #065e89;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
